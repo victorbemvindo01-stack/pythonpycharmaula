@@ -1,3 +1,4 @@
+#Questão 6: O Erro de Verificação (Análise e Correção de Código)
 
 senha_cadastrada = 1234
 senha_digitada = int(input("Digite sua senha: "))

@@ -22,11 +22,3 @@ elif nome == "Joao":
     print("Olha só, o dono da balada chegou.")
 else:
     print("Olá "+ nome +"! Seja bem vindo a nossa balada.")
-
-
-
-
-
-
-
-
