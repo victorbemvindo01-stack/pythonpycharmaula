@@ -1,4 +1,0 @@
-senha_cadastrada = 0000
-senha_digitada = input("Digite sua senha: ")
-acesso_liberado: = senha_cadastrada  == senha_digitada
-print("Acesso liberado?", acesso_liberado)
